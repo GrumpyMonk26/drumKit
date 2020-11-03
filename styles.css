@@ -16,7 +16,6 @@ h1 {
   font-size: 7rem;
   color: #00ff00;
   font-family: 'Roboto Slab', serif;
-  text-shadow: 2px 0 #DA0463;
 
 }
 
@@ -80,7 +79,6 @@ footer {
   line-height: 2;
   font-weight: 900;
   color: #00ff00;
-  text-shadow: 2px 0 #DA0463;
   border-radius: 100%;
   display: inline-block;
   width: 150px;
